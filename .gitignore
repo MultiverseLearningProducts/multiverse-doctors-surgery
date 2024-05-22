@@ -1,2 +1,5 @@
 /venv
 config.ini
+doctor.csv
+patient.csv
+appointment.csv
